@@ -1,2 +1,4 @@
-package org.testingacedemy.endpoints;public class APIConstantEnum {
+package org.testingacedemy.endpoints;
+
+public class APIConstantEnum {
 }

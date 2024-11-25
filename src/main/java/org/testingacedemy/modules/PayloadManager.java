@@ -1,2 +1,4 @@
-package org.testingacedemy.modules;public class PayloadManager {
+package org.testingacedemy.modules;
+
+public class PayloadManager {
 }
