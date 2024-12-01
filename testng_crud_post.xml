@@ -2,6 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="ATB7xAPIAutomationFramework">
-        <classes><class name="org.testingacedemy.test.crud.testCreateBookingPOST"><methods>
-            <include name="testVerifyCreateBookingPOST01"/></methods></class></classes>
+        <classes><class name="org.testingacedemy.test.crud.testCreateBookingTCPost">
+
+        </class></classes>
     </test></suite>
